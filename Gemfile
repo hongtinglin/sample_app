@@ -19,6 +19,8 @@ group :test do
   gem 'rspec-rails','2.6.1'
   gem 'webrat','0.7.1'
   gem 'factory_girl_rails', '1.0'
+
+  gem 'spork','0.9.0.rc8'
 end
 
 # Asset template engines
